@@ -1,4 +1,4 @@
-[Fernando Gont](https://www.gont.com.ar) is a currently a Staff Platform Security Engineer at [Yalo](https://www.yalo.com).
+[Fernando Gont](https://www.gont.com.ar) is a currently Staff Platform Security Engineer at [Yalo](https://www.yalo.com).
 
 Gont has twenty years of industry experience in the fields of Internet engineering and information security, working for a number of private and governmental organizations from around the world.
 
